@@ -12,7 +12,7 @@ namespace Algorithms
             if(InputArray == null || InputArray.Length == 0)
                 throw new System.Exception("Array cannot be empty or null");
 
-                
+            return 0;
         }
     }
 }
